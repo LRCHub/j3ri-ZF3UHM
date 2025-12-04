@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "愛想花火",
+  "base_artist": "神が残した夢を喰う。",
+  "createdAt": "2025-12-04T12:09:27.924474Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛想花火",
+      "artist": "神が残した夢を喰う。",
+      "has_synced": false,
+      "path": "select/pl_01_愛想花火_神が残した夢を喰う。.txt"
+    }
+  ]
+}
